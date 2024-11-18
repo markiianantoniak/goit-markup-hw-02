@@ -1,1 +1,1 @@
-https://markiianantoniak.github.io/goit-markup-hw-02/
+GOIT-MARKUP-HW-02
