@@ -1,26 +1,20 @@
 body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
   margin: 0;
-  font-family: Arial, sans-serif;
 }
 
 .header {
   background-color: #f8f9fa;
-  padding: 20px 0;
 }
 
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 15px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
-
-.nav {
-  display: flex;
-  align-items: center;
-  gap: 40px;
 }
 
 .logo {
@@ -42,11 +36,10 @@ body {
   list-style: none;
   margin: 0;
   padding: 0;
-  display: flex;
-  gap: 20px;
 }
 
 .nav-link {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -69,11 +62,10 @@ body {
   list-style: none;
   margin: 0;
   padding: 0;
-  display: flex;
-  gap: 10px;
 }
 
 .contact-link {
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
