@@ -111,34 +111,38 @@ header {
 
 /* SECTION 1 */
 
+/* SECTION 2 */
+.services {
+  background-color: #f4f4f4;
+}
+
 .services h2 {
-  font-size: 24px;
+  font-size: 36px;
   color: #2e2f42;
 }
 
-.service-title {
-  font-size: 18px;
-  font-weight: 600;
-  color: #4d5ae5;
+.service-list {
+  list-style: none;
 }
 
-.service-description {
-  font-size: 14px;
-  color: #666;
+.service-list li {
+  background-color: #ffffff;
 }
 
-.portfolio {
-  margin: 50px auto;
-  max-width: 1200px;
-}
-
-.portfolio h2 {
-  font-size: 24px;
+.service-list h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 10px;
 }
 
-.portfolio-title {
-  font-size: 18px;
-  font-weight: 600;
-  color: #4d5ae5;
+.service-list p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
+
+/* SECTION 2 */
