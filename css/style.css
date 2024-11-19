@@ -79,7 +79,6 @@ header {
 
 .order {
   background-color: #2e2f42;
-  padding: 60px 20px;
   text-align: center;
 }
 
@@ -99,7 +98,6 @@ header {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  padding: 12px 30px;
   border: none;
   cursor: pointer;
   text-transform: uppercase;
