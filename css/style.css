@@ -222,3 +222,32 @@ header {
 }
 
 /* SECTION 4 */
+
+/* FOOTER */
+
+footer {
+  background-color: #2e2f42;
+  text-align: center;
+}
+
+footer .logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  text-decoration: none;
+}
+
+footer .logo span {
+  color: #f4f4fd;
+}
+
+footer p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--footer-text-color, #f4f4fd);
+}
