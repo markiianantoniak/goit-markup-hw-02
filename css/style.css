@@ -75,6 +75,44 @@ header {
   color: #404bbf;
 }
 
+/* SECTION 1 */
+
+.order {
+  background-color: #2e2f42;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.order h1 {
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  text-align: center;
+}
+
+.btn {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  padding: 12px 30px;
+  border: none;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: background-color 0.3s;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #404bbf;
+}
+
+/* SECTION 1 */
+
 .services h2 {
   font-size: 24px;
   color: #2e2f42;
