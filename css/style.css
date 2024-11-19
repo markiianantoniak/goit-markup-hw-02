@@ -53,7 +53,7 @@ header {
   color: #404bbf;
 }
 
-.address {
+.contact-info {
   font-style: normal;
 }
 
@@ -97,9 +97,6 @@ header {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  border: none;
-  cursor: pointer;
-  text-transform: uppercase;
 }
 
 .order-button:hover,
