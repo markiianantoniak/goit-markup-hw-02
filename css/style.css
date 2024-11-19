@@ -90,7 +90,7 @@ header {
   text-align: center;
 }
 
-.btn {
+.order-button {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -104,8 +104,8 @@ header {
   transition: background-color 0.3s;
 }
 
-.btn:hover,
-.btn:focus {
+.order-button:hover,
+.order-button:focus {
   background-color: #404bbf;
 }
 
