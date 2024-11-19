@@ -67,7 +67,6 @@ header {
   letter-spacing: 0.02em;
   color: #434455;
   text-decoration: none;
-  transition: color 0.3s;
 }
 
 .contact-link:hover,
@@ -101,7 +100,6 @@ header {
   border: none;
   cursor: pointer;
   text-transform: uppercase;
-  transition: background-color 0.3s;
 }
 
 .order-button:hover,
